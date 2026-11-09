@@ -1,0 +1,8 @@
+{
+  "name": "Sahasra Pharmacy Billing Software",
+  "description": "Enterprise-grade Pharmacy Billing and Management ERP for Windows Desktop. Developed & Designed by Aadhya Software Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
